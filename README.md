@@ -5,9 +5,7 @@ A colourful, interactive weather dashboard covering all **28 states and 8 union 
 ---
 
 ## 🌤️ Live Demo
-
-> **[View Live →](https://YOUR_USERNAME.github.io/india-weather-dashboard/)**  
-> *(Replace with your actual GitHub Pages URL after deployment)*
+  https://github.com/priyanshuprasadsethi-bot/weather-report.git
 
 ---
 
