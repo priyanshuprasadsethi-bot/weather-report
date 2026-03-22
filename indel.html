@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <h1><i class="fa-solid fa-cloud-sun"></i> WeatherDash</h1>
+            <div class="search-box">
+                <input type="text" id="cityInput" placeholder="Enter city name...">
+                <button id="searchBtn"><i class="fa-solid fa-magnifying-glass"></i></button>
+            </div>
+        </header>
+
+        <!-- Current Weather Section -->
+        <div class="weather-card" id="currentWeather">
+            <div class="temp">--°c</div>
+            <div class="city">--</div>
+            <div class="details">
+                <div class="col">
+                    <i class="fa-solid fa-water"></i>
+                    <div>
+                        <p class="humidity">--%</p>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <i class="fa-solid fa-wind"></i>
+                    <div>
+                        <p class="wind">-- km/h</p>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Error Message -->
+        <p class="error" id="errorMsg">City not found. Please try again.</p>
+
+        <!-- 5-Day Forecast Section -->
+        <div class="forecast-container" id="forecastContainer">
+            <!-- Forecast cards will be injected here via JS -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
