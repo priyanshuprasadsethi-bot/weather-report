@@ -5,7 +5,7 @@ A colourful, interactive weather dashboard covering all **28 states and 8 union 
 ---
 
 ## 🌤️ Live Demo
-  https://github.com/priyanshuprasadsethi-bot/weather-report.git
+  https://resonant-manatee-7c66cb.netlify.app/
 
 ---
 
