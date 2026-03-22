@@ -516,7 +516,7 @@ export default function App() {
       </div>
 
       <div style={{textAlign:"center",fontSize:11,color:"var(--color-text-tertiary)",marginTop:14,lineHeight:1.7}}>
-        Demo data · AI alerts from meteorological formulas · Claude insight on demand<br/>
+        Demo data · AI alerts from meteorological formulas<br/>
         For real emergencies: IMD imd.gov.in · NDRF helpline 1078
       </div>
     </div>
