@@ -1,6 +1,6 @@
 # weather-report# 🇮🇳 India Weather Dashboard
 
-A colourful, interactive weather dashboard covering all **28 states and 8 union territories** of India — built with React and powered by Claude AI for real-time weather insights, storm alerts, and smart weather indices.
+A colourful, interactive weather dashboard covering all **28 states and 8 union territories** of India — built with React and for real-time weather insights, storm alerts, and smart weather indices.
 
 ---
 
@@ -45,9 +45,6 @@ Computed instantly from real meteorological formulas — no API required:
 - Stats panel: wind speed, humidity, UV index, storm risk percentage
 - Hourly 6-slot forecast with colour-coded chips
 - Interactive 7-day forecast with temperature range bars
-
-### 🤖 Claude AI Insight
-On-demand 3-sentence weather analysis for any selected state — culturally specific, index-aware, and actionable.
 
 ### 🕐 Live IST Clock
 Updates every second, always showing Indian Standard Time.
@@ -164,7 +161,7 @@ Alert levels activate at these thresholds:
 
 - Weather data: Demo data modelled on real Indian climate patterns
 - Alert thresholds: Based on IMD (India Meteorological Department) guidelines
-- AI insights: Powered by Anthropic Claude API
+  
 
 ---
 
