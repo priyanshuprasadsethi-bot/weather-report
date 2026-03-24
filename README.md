@@ -138,13 +138,7 @@ Alert levels activate at these thresholds:
 | Cyclone | Score ≥ 45 | Score ≥ 60 | Score ≥ 75 |
 | Heat wave | Temp ≥ 40°C | Temp ≥ 42°C | Temp ≥ 44°C |
 
----
 
-## 📸 Screenshots
-
-> *Add screenshots of your dashboard here after deployment*
-
----
 
 ## 🔮 Future Improvements
 
